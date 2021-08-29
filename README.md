@@ -1,4 +1,4 @@
-# JVM_Project_Managemnet
+# JVM_Project_Management
 
 Created for COMP1815 - University of Greenwich - Software Engineering Y3. This is a project management application built in collaboration with three other teammates from the university. 
 This applicationw was built using the following programming languages: Java, Kotlin and Scala. 
