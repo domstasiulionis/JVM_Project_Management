@@ -6,3 +6,5 @@ The application is built only to service an administrative user to assist them i
 The application does not support non-administrative members as this was beyond the scope of the project but could be implemented in future work.
 
 For this project, I was personally responsible for all front-end development of the application using Java. Additionally, I also played a key-part in communicating with other group members to assist them in integrating their backend development with my frontend code.
+
+Additionally the report written at the time, documenting this project, is also included in this repository. 
