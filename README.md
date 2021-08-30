@@ -7,4 +7,4 @@ The application does not support non-administrative members as this was beyond t
 
 For this project, I was personally responsible for all front-end development of the application using Java. Additionally, I also played a key-part in communicating with other group members to assist them in integrating their backend development with my frontend code.
 
-Additionally the report written at the time, documenting this project, is also included in this repository. 
+Additionally, the report documenting this project that had been written at the time is also included in this repository. 
